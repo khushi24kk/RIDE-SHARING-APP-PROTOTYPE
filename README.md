@@ -1,16 +1,15 @@
 # ride_app
 
-A new Flutter project.
+Company:CODTECH IT Solution
 
-## Getting Started
+Name:Khushi Dhumal
 
-This project is a starting point for a Flutter application.
+Intern ID:CT04DA474
 
-A few resources to get you started if this is your first Flutter project:
+Domain: Android Development
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Duration: 4weeks
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+mentor:Neela Santosh
+
+In this I have been used flutter which is cross platforms.
